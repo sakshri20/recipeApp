@@ -9,7 +9,7 @@
 
 ## Demo
 
-Video Recording: ScreenRecording_01-17-2025 16-31-28_1.MP4.zip
+Video Recording: [ScreenRecording_01-17-2025 16-31-28_1.MP4.zip](https://github.com/user-attachments/files/18462125/ScreenRecording_01-17-2025.16-31-28_1.MP4.zip)
 
 Screenshots: 
 
