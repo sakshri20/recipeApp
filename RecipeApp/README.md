@@ -9,6 +9,11 @@
 
 ## Demo
 
+Video Recording: ScreenRecording_01-17-2025 16-31-28_1.MP4.zip
+
+Screenshots:
+
+
 ### Focus Areas: 
     For this project I focus on 2 things:
     1. UI: I wanted the list of recipes to look good an appealing to the user. At the same time I wanted to display all the crusial/important information for each list item - which in this case was the name and cusine of the recipe. So for the first creen itself user has enough information to make a decision.
