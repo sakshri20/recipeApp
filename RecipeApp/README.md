@@ -13,7 +13,7 @@ Video Recording: ScreenRecording_01-17-2025 16-31-28_1.MP4.zip
 
 Screenshots: 
 
-https://github.com/sakshri20/recipeApp/issues/2
+https://github.com/sakshri20/recipeApp/issues/
 
 
 ### Focus Areas: 
