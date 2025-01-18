@@ -11,7 +11,9 @@
 
 Video Recording: ScreenRecording_01-17-2025 16-31-28_1.MP4.zip
 
-Screenshots:
+Screenshots: 
+
+https://github.com/sakshri20/recipeApp/issues/2
 
 
 ### Focus Areas: 
@@ -32,9 +34,7 @@ Screenshots:
     Total: 6.5 hr
 
 ### Trade-offs and Decisions: 
-    In terms of UI: 
     1. I created a separate component for the image "RAUrlImageView". I could have used AsyncImage but I won't be able to cache the images in that case so I created this component. AsyncImage could have saved time but would have costed more in terms of network calls. 
-    2. 
 
 ### Weakest Part of the Project: 
     1. I could have spent more time in make the detail view better. Maybe by creating a custome video play or defining a UI/UX a bit more.
